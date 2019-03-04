@@ -1,4 +1,4 @@
-FROM php:7.1.26-apache-jessie
+FROM php:7.2.15-apache-stretch
 
 RUN \
   apt-get update &&\
